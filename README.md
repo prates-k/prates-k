@@ -14,7 +14,7 @@ Misturando a visão técnica de desenvolvimento com a sensibilidade de entender 
   - Lógica de programação e backend com Python.
   - Como traduzir as dores dos usuários em melhorias de produto.
 
-- 📫 **Como me encontrar:** - [LinkedIn](linkedin.com/in/kauã-prates-a978932a2)
+- 📫 **Como me encontrar:** - [LinkedIn](http://linkedin.com/in/kauã-prates-a978932a2)
 
 ---
 
