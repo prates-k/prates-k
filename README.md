@@ -9,12 +9,12 @@ Misturando a visão técnica de desenvolvimento com a sensibilidade de entender 
   - Desenvolvimento do protótipo de um aplicativo de coleta seletiva urbana para a cidade de Vassouras (usando Django no backend, rotas e gamificação).
 
 - 🌱 **Estudando e me aprimorando em:** 
-  - Desenvolvimento com Python, Django, JavaScript & Node.js.
+  - Desenvolvimento com Python, Django, JavaScript, Node.js & React.
   - Integração de competências de **Product Owner (PO)** e Gestão de Produtos com a área de Suporte Técnico.
 
 - 💬 **Pergunte-me sobre:** 
   - Suporte técnico ao cliente e atendimento.
-  - Lógica de programação e backend.
+  - Lógica de programação, backend e interfaces dinâmicas.
   - Como traduzir as dores dos usuários em melhorias de produto.
 
 - 📫 **Como me encontrar:** 
@@ -28,6 +28,7 @@ Misturando a visão técnica de desenvolvimento com a sensibilidade de entender 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
