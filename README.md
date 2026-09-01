@@ -9,7 +9,7 @@ Misturando a visão técnica de desenvolvimento com a sensibilidade de entender 
   - Desenvolvimento do protótipo de um aplicativo de coleta seletiva urbana para a cidade de Vassouras (usando Django no backend, rotas e gamificação).
 
 - 🌱 **Estudando e me aprimorando em:** 
-  - Desenvolvimento com Python, Django, JavaScript, Node.js & React.
+  - Desenvolvimento com Python, Django, JavaScript, Java, Testes Unitários, Node.js & React.
   - Integração de competências de **Product Owner (PO)** e Gestão de Produtos com a área de Suporte Técnico.
 
 - 💬 **Pergunte-me sobre:** 
